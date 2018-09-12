@@ -10,11 +10,11 @@ Please check the ADF4351 datasheet or use ADF4351 software
 to get proper PLL register values.
  
 ## PIN layout ATTINY13
- pin 3 - PB4 ADF4531 clock (CLK) 
+ pin 3 - PB4  to ADF4531 clock (CLK) 
  
- pin 2 - PB3 ADF4531 data (DATA) 
+ pin 2 - PB3 to ADF4531 data (DATA) 
  
- pin 7 - PB2 ADF4531 latch enable (LE) 
+ pin 7 - PB2 to ADF4531 latch enable (LE) 
 
 ![board](https://raw.githubusercontent.com/ok1cdj/ADF4351-basic-LO/master/PLL-board.jpg)
     
