@@ -13,3 +13,6 @@ to get PLL register values.
  PB3 ADF4531 data (DATA)
  
  PB2 ADF4531 latch enable (LE)
+
+![board](https://raw.githubusercontent.com/ok1cdj/ADF4351-basic-LO/master/PLL-board.jpg)
+    
