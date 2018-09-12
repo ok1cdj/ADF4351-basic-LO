@@ -9,7 +9,7 @@ ADF4351 eval board from eBay or Ali for aprox. 17 USD.
 Please check the ADF4351 datasheet or use ADF4351 software
 to get proper PLL register values.
  
-## PIN layout ATTINY13
+## PIN layout of ATTINY13
 MCU is powered  by 3.3V directly from PLL board.
 
  pin 3 - PB4  to ADF4531 clock (CLK) 
