@@ -7,12 +7,12 @@ v 0.1 Ondra OK1CDJ 9/2018 ondra@ok1cdj.com
 Please check the ADF4351 datasheet or use ADF4351 software
 to get PLL register values.
  
-## PIN layout
- PB4 ADF4531 clock (CLK)   
+## PIN layout ATTINY13
+ pin 3 - PB4 ADF4531 clock (CLK) 
  
- PB3 ADF4531 data (DATA)
+ pin 2 - PB3 ADF4531 data (DATA) 
  
- PB2 ADF4531 latch enable (LE)
+ pin 7 - PB2 ADF4531 latch enable (LE) 
 
 ![board](https://raw.githubusercontent.com/ok1cdj/ADF4351-basic-LO/master/PLL-board.jpg)
     
