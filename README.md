@@ -8,8 +8,13 @@ ADF4351 eval board from eBay or Ali for aprox. 17 USD.
  
 Please check the ADF4351 datasheet or use ADF4351 software
 to get proper PLL register values.
+
+# ADF4351-Beacon
+Simple CW beacon. SW is to large for ATTiny13. You can use ATTINY45/85 on same PCB.
+Beacon send string in morse code - OK1CDJ JO70VA and then continous tone for 5s.
+
  
-## PIN layout of ATTINY13
+## PIN layout of ATTINY13/45/85
 MCU is powered  by 3.3V directly from PLL board.
 
  pin 3 - PB4  to ADF4531 clock (CLK) 
