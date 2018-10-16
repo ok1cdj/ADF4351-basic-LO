@@ -24,4 +24,8 @@ MCU is powered  by 3.3V directly from PLL board.
  pin 7 - PB2 to ADF4531 latch enable (LE) 
 
 ![board](https://raw.githubusercontent.com/ok1cdj/ADF4351-basic-LO/master/PLL-board.jpg)
+
+Kit is available here:
+
+https://www.hamshop.cz/pll-adf4351-c51/adf4351-ovladani-s-attiny13-stavebnice-i351/
     
