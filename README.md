@@ -13,9 +13,14 @@ to get proper PLL register values.
 Simple CW beacon. SW is to large for ATTiny13. You can use ATTINY45/85 on same PCB.
 Beacon send string in morse code like - OK1CDJ JO70VA and then continous tone for 5s.
 
+# ADF4351-Key
+Version with external keying on PB0 of ATTiny13. Can be used as simple CW transmitter.
+
  
 ## PIN layout of ATTINY13/45/85
 MCU is powered  by 3.3V directly from PLL board.
+
+ pin 5 - PB0 external keying - optional
 
  pin 3 - PB4  to ADF4531 clock (CLK) 
  
