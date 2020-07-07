@@ -3,6 +3,8 @@
  https://github.com/MCUdude/MicroCore
  v 0.1 Ondra OK1CDJ 9/2018 ondra@ok1cdj.com
  
+ Parts of this code is based on routines written by PA3FYM
+ 
  Please check the ADF4351 datasheet or use ADF4351 software
  to get PLL register values.
  
