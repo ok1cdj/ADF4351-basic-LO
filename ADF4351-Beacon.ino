@@ -1,9 +1,11 @@
 /* CW beacon software for PLL ADF4351 and ATTiny45 
  can be compiled with arduino 
  v 0.1 Ondra OK1CDJ 9/2018 ondra@ok1cdj.com
+ 
+ Parts of this code is based on routines written by PA3FYM
 
-  Based on Simple Arduino Morse Beacon  
-  Written by Mark VandeWettering K6HX
+ Morse Based on Simple Arduino Morse Beacon  
+ Written by Mark VandeWettering K6HX
  
  Please check the ADF4351 datasheet or use ADF4351 software
  to get PLL register values.
