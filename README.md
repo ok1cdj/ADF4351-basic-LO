@@ -10,7 +10,7 @@ Please check the ADF4351 datasheet or use ADF4351 software
 to get proper PLL register values.
 
 # ADF4351-Beacon
-Simple CW beacon. SW is to large for ATTiny13. You can use ATTINY45/85 on same PCB.
+Simple CW beacon. SW is also for ATTiny13 now or can use ATTINY45/85 on same PCB.
 Beacon send string in morse code like - OK1CDJ JO70VA and then continous tone for 5s.
 
 # ADF4351-Key
